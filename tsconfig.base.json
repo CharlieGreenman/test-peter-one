@@ -23,6 +23,9 @@
       ],
       "@test-peter-one/common/ui": [
         "libs/common/ui/src/index.ts"
+      ],
+      "@test-peter-one/home": [
+        "libs/home/src/index.ts"
       ]
     }
   },
