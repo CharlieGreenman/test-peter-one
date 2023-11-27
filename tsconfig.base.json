@@ -20,6 +20,9 @@
     "paths": {
       "@test-peter-one/common/styles": [
         "libs/common/styles/src/index.ts"
+      ],
+      "@test-peter-one/common/ui": [
+        "libs/common/ui/src/index.ts"
       ]
     }
   },
